@@ -1,0 +1,19 @@
+EVE sera divisé en 03 parties : 
+
+-Front office
+-Back office
+-API
+
+
+Ordre de finition des éléments :
+
+- Design Front Office et Back Office
+- Intégration BDD
+- CRUD éntités
+- Intégration Interface
+- Intégration API
+- Intégrations statistiques
+- Intégration Interaction Etudiants-Admin
+- Finition Premier Rush
+
+Date limite premier rush : Dimanche 18 Août 2024.
